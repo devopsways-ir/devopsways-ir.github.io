@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdevopsways_ir=self.webpackChunkdevopsways_ir||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog"}')}}]);
